@@ -1,4 +1,4 @@
-# AR-Sandbox
+# AR-Sandbox (MOVI Version)
 
 Visually augmented sandbox using Kinect and Unity3D.
 Inspiried by [SARndbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/)
